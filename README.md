@@ -2,13 +2,14 @@
 
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)]()
 [![Maven](https://img.shields.io/maven-central/v/com.yalantis/starwarstiles.svg)]()
+[![](https://jitpack.io/v/yalantis/starwars.android.svg)](https://jitpack.io/#yalantis/starwars.android)
 [![Yalantis](https://raw.githubusercontent.com/Yalantis/PullToRefresh/develop/PullToRefreshDemo/Resources/badge_dark.png)](https://yalantis.com/?utm_source=github)
 
 This component implements transition animation to crumble view into tiny pieces.
 
 
 
-<img src="https://yalantis.com/media/content/ckeditor/2015/10/20/star_wars-shot.gif" />
+<img src="star_wars-concept.gif" />
 <br>Check this <a href="https://dribbble.com/shots/2109991-Star-Wars-App-concept">project on dribbble</a>.
 
 Also, read how it was done in [our blog](https://yalantis.com/blog/star-wars-the-force-awakens-or-how-to-crumble-view-into-tiny-pieces-on-android)
@@ -23,7 +24,7 @@ Add to your module's build.gradle:
 ```Groovy
 dependencies {
     //...
-    compile 'com.yalantis:starwarstiles:0.1.0'
+    compile 'com.yalantis:starwarstiles:0.1.1'
 }
 ```
 
